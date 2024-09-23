@@ -1,8 +1,6 @@
-<!--StartFragment-->
+# **Comprehensive molecular profiling of lung adenocarcinoma**
 
-**Comprehensive molecular profiling of lung adenocarcinoma**
-
-Authors: Nada Ghozlan (@Nad1), Felix Idowu (@Holuwabiggest), Merylin Ogunlola (@MerylinO), Alatise Monsurah Bisola (@ [AlatiseMB](https://hackbiointern-leo4437.slack.com/team/U07JE9TRESZ)).
+## Authors: Nada Ghozlan (@Nad1), Felix Idowu (@Holuwabiggest), Merylin Ogunlola (@MerylinO), Alatise Monsurah Bisola (@ [AlatiseMB](https://hackbiointern-leo4437.slack.com/team/U07JE9TRESZ)).
 
 Link to LinkedIn Post: https\://www\.linkedin.com/posts/merylin-ogunlola-9b093b193\_hackbio-research-cancer-activity-7238132704465072129-bAxH?utm\_source=share\&utm\_medium=member\_desktop
 
@@ -12,11 +10,11 @@ The study identified 18 genes with significant mutations, with TP53 and KRAS bei
 
 The study suggested a new nomenclature for different types of lung adenocarcinoma, linking transcriptional profiles with histopathological and mutational classifications: Terminal Respiratory Unit (TRU), Proximal-Inflammatory (PI), and Proximal-Proliferative (PP). The PP subtype exhibited a higher frequency of KRAS mutations. Additionally, significant heterogeneity was noted, with different tumor clusters identified based on patterns of DNA methylation and chromatin states, particularly in tumors with a CIMP-H phenotype showing gene hypermethylation in WNT pathway genes [(Collisson et al., 2014)](https://www.zotero.org/google-docs/?gHrJwH).
 
-**References**
+******
+# **References**
 
 [Collisson, E. A., Campbell, J. D., Brooks, A. N., Berger, A. H., Lee, W., Chmielecki, J., Beer, D. G., Cope, L., Creighton, C. J., Danilova, L., Ding, L., Getz, G., Hammerman, P. S., Neil Hayes, D., Hernandez, B., Herman, J. G., Heymach, J. V., Jurisica, I., Kucherlapati, R., … John Flynn Hospital. (2014). Comprehensive molecular profiling of lung adenocarcinoma. _Nature_, _511_(7511), 543–550. https://doi.org/10.1038/nature13385](https://www.zotero.org/google-docs/?V4AIwD)
 
-\
 
 
 <!--EndFragment-->
